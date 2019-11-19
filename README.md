@@ -1,6 +1,6 @@
-#To use AzterTest you have to install the following modules:
+To use AzterTest you have to install the following modules:
 
-#This version use NLPCube parser:
+This version use NLPCube parser:
 pip3 install nlpcube
 
 pip3 install numpy
