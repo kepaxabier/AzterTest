@@ -1,4 +1,8 @@
-To use AzterTest you have to install the following modules:
+Aztertest calculates multiple metrics and indicators of the texts' content and analyzing those results to determine the complexity level of those texts.
+
+To use AzterTest online: http://161.35.202.53/
+
+If you want to install Aztertest locally, you have to install the following modules:
 
 This version use NLPCube parser:
 pip3 install nlpcube
