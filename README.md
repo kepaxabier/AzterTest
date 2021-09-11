@@ -1,6 +1,10 @@
-Aztertest calculates multiple metrics and indicators of the texts' content and analyzing those results to determine the complexity level of those texts.
+At the moment there is an improved version called MultiAzterTest
 
-To use AzterTest online: http://161.35.202.53/
+MultiAzterTest is on githup as https://github.com/kepaxabier/MultiAzterTest
+
+You can test the online version of MultiAzterTest at the address http://ixa2.si.ehu.eus/aztertest
+
+Aztertest calculates multiple metrics and indicators of the texts' content and analyzing those results to determine the complexity level of those texts.
 
 If you want to install Aztertest locally, you have to install the following modules:
 
